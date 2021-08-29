@@ -7,10 +7,10 @@
   <title>Document</title>
 </head>
 <body>
-  <h3>Data Mahasiswa</h3>
+  <h4>Data Mahasiswa</h4>
   <ul>
     <li>Hanif 123</li>
-    <li>Nurul 234</li>
   </ul>
+  <p>Lorem ipsum dolor sit.</p>
 </body>
 </html>
