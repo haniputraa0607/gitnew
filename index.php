@@ -10,7 +10,8 @@
   <h4>Data Mahasiswa</h4>
   <ul>
     <li>Hanif 123</li>
+    <li>Nurul 567</li>
   </ul>
-  <p>Lorem ipsum dolor sit.</p>
+  <p>Lorem ipsum dolor sit amet.</p>
 </body>
 </html>
